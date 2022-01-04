@@ -76,7 +76,7 @@ int main()
 
     for (int n = 0; n < N * L; n++)
     {
-        input[n] = 10000 * cos(n * 300 * 2 * PI / 1024);
+        input[n] = 10000 * sin(n * 100 * 2 * PI / 1024);
     }
 
     for (int n = 0; n < N * L; n++)
