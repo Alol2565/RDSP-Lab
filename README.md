@@ -1,2 +1,2 @@
-# RDSP-Lab
-RDSP Lab | Fall 2021 | University of Tehran | Prof. Vahid Shahmansouri
+# RDSP Lab
+Real-Time Digital Signal Proccesing Lab | Fall 2021 | University of Tehran | Prof. Vahid Shahmansouri
